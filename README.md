@@ -3,4 +3,4 @@
 Todo..
 
 # Overzicht 
-[Hoofdperioden](docs/hoofdperioden.md)
+[Hoofdperioden](docs/Hoofdperioden.md)
